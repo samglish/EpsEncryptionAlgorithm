@@ -83,4 +83,4 @@ if __name__ == '__main__':
 ```
 ***Ce code génère une clé publique et privée en utilisant les paramètres p et g. Ensuite, il crypte un message à l'aide de la clé publique et le décrypte à l'aide de la clé privée.***
 
-<img src="EEA.png" width="70%"/>
+<img src="EEA.png" width="85%"/>
